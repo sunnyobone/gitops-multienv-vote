@@ -55,13 +55,12 @@ footer {
     transform: translateX(-50%);
     color: #37474f;
 
-    /* uncomment below to create feature-one */
-    /* 
+   
     color: black;
     background-color: #eceff1;
     border: #37474f 1px dashed;
     padding: .7em; 
-    */
+    
 }
 
 :focus {
